@@ -56,3 +56,11 @@ Whether you're a visionary developer, a startup with bold ideas, or a government
 > *“When the world’s brightest minds come together, magic becomes reality.”*  
 > — MAGA Unicorn Corporation
 
+---
+
+# MAGA's Founders
+- Mr. Benz TRAN
+
+
+
+
