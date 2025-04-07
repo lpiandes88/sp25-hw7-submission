@@ -1,6 +1,7 @@
 # 🛍️ Product Catalog
 
-Welcome to our featured product showcase. Explore our top-rated items below:
+<font color="red">## 50% off on second items.</font>
+> only apply for product (1), (3) and (5)
 
 | 🆔 | Product Name                 | Description                                      | Price   | Availability |
 |----|-----------------------------|--------------------------------------------------|---------|--------------|
